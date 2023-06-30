@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='Antiless',
       version="1.0b5",
       packages=['Antiless', 'Antiless.GeoIP', 'Antiless.Tools', 'Antiless.Exceptions'],
-      url='https://github.com/MHProDev/Antiless',
+      url='https://github.com/antilagg/Antiless',
       license='MIT',
       author="Antiless",
       install_requires=[
