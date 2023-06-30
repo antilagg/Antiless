@@ -13,7 +13,7 @@ from Antiless.Exceptions import ProxyInvalidHost, ProxyInvalidPort, ProxyParseEr
 from Antiless.Tools import Patterns
 
 __version__ = "1.0b5"
-__auther__ = "AntiLess"
+__auther__ = "antilag"
 __all__ = ["ProxyUtiles", "ProxyType", "ProxySocket", "ProxyChecker", "Proxy"]
 
 class ProxyType(IntEnum):
